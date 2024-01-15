@@ -19,7 +19,7 @@
       },
       {
         "name": "Twitter",
-        "link": "https://twitter.com",
+        "link": "https://twitter.com/Ujjwal__Kashyap",
         "icon": "IoLogoTwitter"
       },
       {
@@ -41,10 +41,10 @@
 
   },
   "profile": {
-    "profilePictureFileName": "PROFILE_PIC.JPG",
+    "profilePictureFileName": "PROFILE_PIC.jpg",
     "profilePictureAlt": "Profile Image",
     "name": "Ujjwal Kumar Singh",
-    "bio": "I am final Year Undergraduate Semaphore in Information Technology From NIT Jalandhar, Punjab.Currently Looking for SDE Role.I Have completed my Summer Intern from Bharti Airtel as a Technical Intern.I like to do competitive programming.I Have also done multiple projects in Web development.Along with that I am also Placement Coordinator of My college.",
+    "bio": "I am a final-year undergraduate student specializing in Information Technology at NIT Jalandhar, Punjab. Currently, I am seeking a Software Development Engineer (SDE) role. I have completed a summer internship at Bharti Airtel as a Technical Intern. I enjoy engaging in competitive programming and have undertaken various projects in web development. Additionally, I serve as the Placement Coordinator for my college.",
     "resume": "Resume_Sample.pdf"
   },
   "bio": {
@@ -54,7 +54,7 @@
         "roles": [
           {
             "title": "Technical Intern",
-            "description": "Worked as Data Analyst , Implement pandas to efficiently manage Report",
+            "description": "Worked as Data Analyst , Implemented Python scripts utilizing the Pandas library to analyze and process employee data",
             "year": "June 2023- July 2023"
           }
         ],
@@ -167,7 +167,7 @@
         "title": "Campus Trade",
         "description": "A Multi Vendor Site , Build to facilitate Buying and Selling of Second Hand items among the Students in the College at cheaper cost.",
         "link": "https://campus-trade.onrender.com/",
-        "imageName": "campusTrade2.PNG",
+        "imageName": "project1.png",
         "imageAlt": "Project 1 Image",
         "technologies": ["ReactJS", "MongoDB" ,"JWT", "ExpressJS"]
       },
