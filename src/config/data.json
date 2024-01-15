@@ -1,0 +1,208 @@
+{
+  "displayPicture": {
+    "fileName": "avatar.webp",
+    "alt": "Display Picture"
+  },
+  "home": {
+    "name": "Ujjwal",
+    "intro": "Passinate Web Developer ,Love to do Competitive Programming.Currently Looking for SDE Role",
+    "socialLinks": [
+      {
+        "name": "Github",
+        "link": "https://github.com/UKS28",
+        "icon": "IoLogoGithub"
+      },
+      {
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/in/ujjwal-kumar-singh-679444202",
+        "icon": "IoLogoLinkedin"
+      },
+      {
+        "name": "Twitter",
+        "link": "https://twitter.com",
+        "icon": "IoLogoTwitter"
+      },
+      {
+        "name": "CodeForces",
+        "link": "https://codeforces.com/profile/uks_28",
+        "icon": "SiCodeforces"
+      },
+      {
+        "name": "LeetCode",
+        "link": "https://leetcode.com/UKS_28/",
+        "icon": "SiLeetcode"
+      },
+      {
+        "name": "InteriewBit",
+        "link": "https://www.interviewbit.com/profile/ujjwal-singh-kashyap",
+        "icon": "FaCode"
+      }
+    ]
+
+  },
+  "profile": {
+    "profilePictureFileName": "PROFILE_PIC.JPG",
+    "profilePictureAlt": "Profile Image",
+    "name": "Ujjwal Kumar Singh",
+    "bio": "I am final Year Undergraduate Semaphore in Information Technology From NIT Jalandhar, Punjab.Currently Looking for SDE Role.I Have completed my Summer Intern from Bharti Airtel as a Technical Intern.I like to do competitive programming.I Have also done multiple projects in Web development.Along with that I am also Placement Coordinator of My college.",
+    "resume": "Resume_Sample.pdf"
+  },
+  "bio": {
+    "workExperience": [
+      {
+        "company": "Bharti Airtel",
+        "roles": [
+          {
+            "title": "Technical Intern",
+            "description": "Worked as Data Analyst , Implement pandas to efficiently manage Report",
+            "year": "June 2023- July 2023"
+          }
+        ],
+        "companyURL": "https://www.airtel.in/about-bharti/about-bharti-airtel/"
+      }
+    ],
+    "education": [
+      {
+        "institution": "DR BR Ambedkar National Institute of Technology Jalandhar,Punjab",
+        "degrees": [
+          {
+            "title": "Bachelors Of Technology",
+            "year": "Dec 2020 - Present",
+            "description": "Pursuing B.Tech In Information Technology Dept."
+          }
+        ],
+        "institutionURL": "https://www.nitj.ac.in/"
+      },
+      {
+        "institution": "Gyan Jyoti Residential Public School,Patna,Bihar",
+        "degrees": [
+          {
+            "title": "Intermediate Education",
+            "year": "April 2018- May 2019",
+            "description": "in PCM"
+          }
+        ],
+        "institutionURL": "https://www.facebook.com/gjrpspatna/?locale=hi_IN"
+      },
+      {
+        "institution": "DAV Public School Khagual, Patna,Bihar",
+        "degrees": [
+          {
+            "title": "Secondary School",
+            "year": "April 2016- May 2017",
+            "description": "in PCM"
+          }
+        ],
+        "institutionURL": "https://davkhagaul.org/"
+      }
+    ]
+  },
+  "interests": [
+    {
+      "title": "Competitive Programming",
+      "description": "Secured a Global Rank of 1064 and AIR Rank of 784 in Google Kickstart.  Along with that Specialist(1430) on Codeforces",
+      "icon": "SiCodeforces"
+    },
+    
+    {
+      "title": "Node js/Express Js",
+      "description": "Familiar with Node js & Express.js that provide a solid foundation for creating efficient and scalable servers",
+      "icon": "IoLogoNodejs"
+    },
+    {
+      "title": "MongoDB",
+      "description": " I have experience in working with MongoDB ,a No SQL Database,to store and retrieve data efficiently for web applications and other projects",
+      "icon": "SiMongodb"
+    },
+    {
+      "title": "React JS",
+      "description": " I leverage React's component-based architecture to create interactive and efficient front-end solutions.",
+      "icon": "RiReactjsLine"
+    },
+    {
+      "title": "Pandas",
+      "description": "I have experinec in Python Pandas as I have done my summer Instership with same framework",
+      "icon": "SiPandas"
+    }
+    
+  ],
+  "skills": [
+    {
+      "title": "MERN Development",
+      "icon": "MdOutlineDeveloperMode"
+    },
+    {
+      "title": "Competitive Programming",
+      "icon": "SiCodeforces"
+    },
+    {
+      "title": "C/C++",
+      "icon": "FaToolbox "
+    },
+    {
+      "title": "OOPS",
+      "icon": "MdDesignServices"
+    },
+    {
+      "title": "Operating System",
+      "icon": "AiFillAccountBook"
+    },
+    {
+      "title": "Computer Networking",
+      "icon": "TbNetwork"
+    },
+    {
+      "title": "HTML/CSS",
+      "icon": "CgStyle"
+    },
+    {
+      "title": "SQL & NO SQL",
+      "icon": "FaDatabase"
+    }
+
+  ],
+  "portfolio": {
+    "portfolioItems": [
+      {
+        "title": "Campus Trade",
+        "description": "A Multi Vendor Site , Build to facilitate Buying and Selling of Second Hand items among the Students in the College at cheaper cost.",
+        "link": "https://campus-trade.onrender.com/",
+        "imageName": "campusTrade2.PNG",
+        "imageAlt": "Project 1 Image",
+        "technologies": ["ReactJS", "MongoDB" ,"JWT", "ExpressJS"]
+      },
+      {
+        "title": "Todo",
+        "description": "A user-friendly Todo application where individuals can efficiently track their work tasks and manage their to-do lists.",
+        "link": "https://todo-e3q8.onrender.com/",
+        "imageName": "todo.png",
+        "imageAlt": "Project 2 Image",
+        "technologies": ["ReactJS", "CSS", "Local Storage"]
+      }
+    ]
+  },
+  "archive": {
+    "archiveItems": [
+      {
+        "title": "Blog 1",
+        "date": "Jan 2020",
+        "imageName": "Blog 1.webp   ",
+        "imageAlt": "Blog Image",
+        "link": "https://medium.com"
+      },
+      {
+        "title": "Paper 1",
+        "date": "Jan 2020",
+        "imageName": "Paper 1.webp",
+        "imageAlt": "Paper Image",
+        "link": "https://arxiv.org"
+      }
+    ]
+  },
+  "contact": {
+    "phone": "+91-811-4580-978",
+    "emailID": "ujjwalsinghkashyap12@gmail.com",
+    "address": "Police Colony,Patna,Bihar",
+    "addressLink": "https://www.google.com/maps"
+  }
+}
