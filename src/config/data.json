@@ -172,6 +172,14 @@
         "technologies": ["ReactJS", "MongoDB" ,"JWT", "ExpressJS"]
       },
       {
+        "title": "Netflix GPT",
+        "description": "Netflix clone along with feature of movie recommendation system through open AI integration.",
+        "link": "https://netflixx-ai.netlify.app/",
+        "imageName": "project3.jpg",
+        "imageAlt": "Project 3 Image",
+        "technologies": ["ReactJS", "Redux" ,"Firebase", "Tailwind"]
+      },
+      {
         "title": "Todo",
         "description": "A user-friendly Todo application where individuals can efficiently track their work tasks and manage their to-do lists.",
         "link": "https://todo-e3q8.onrender.com/",
