@@ -174,11 +174,12 @@
       {
         "title": "Netflix GPT",
         "description": "Netflix clone along with feature of movie recommendation system through open AI integration.",
-        "link": "https://netflixx-ai.netlify.app/",
+        "link": "https://65ee9ba1c242b30315b6ffc6--delightful-stardust-f89df1.netlify.app/",
         "imageName": "project3.jpg",
         "imageAlt": "Project 3 Image",
         "technologies": ["ReactJS", "Redux" ,"Firebase", "Tailwind"]
       },
+      
       {
         "title": "Todo",
         "description": "A user-friendly Todo application where individuals can efficiently track their work tasks and manage their to-do lists.",
@@ -186,6 +187,14 @@
         "imageName": "todo.png",
         "imageAlt": "Project 2 Image",
         "technologies": ["ReactJS", "CSS", "Local Storage"]
+      },
+      {
+        "title": "YouTube-Clone",
+        "description": "Youtube clone along with feature of search Suggestion Api and Live Chats",
+        "link": "https://youtube-clone-cu0p.onrender.com/",
+        "imageName": "project4.jpg",
+        "imageAlt": "Project 4 Image",
+        "technologies": ["ReactJS", "Redux" ,"Shimmer", "Tailwind"]
       }
     ]
   },
