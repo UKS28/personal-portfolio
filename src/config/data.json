@@ -1,6 +1,6 @@
 {
   "displayPicture": {
-    "fileName": "avatar.webp",
+    "fileName": "profile.jpg",
     "alt": "Display Picture"
   },
   "home": {
@@ -45,7 +45,7 @@
     "profilePictureAlt": "Profile Image",
     "name": "Ujjwal Kumar Singh",
     "bio": "I am a final-year undergraduate student specializing in Information Technology at NIT Jalandhar, Punjab. Currently, I am seeking a Software Development Engineer (SDE) role. I have completed a summer internship at Bharti Airtel as a Technical Intern. I enjoy engaging in competitive programming and have undertaken various projects in web development. Additionally, I serve as the Placement Coordinator for my college.",
-    "resume": "Resume_Sample.pdf"
+    "resume": "Resume_Sample (2).pdf"
   },
   "bio": {
     "workExperience": [
@@ -163,12 +163,13 @@
   ],
   "portfolio": {
     "portfolioItems": [
+     
       {
-        "title": "Campus Trade",
-        "description": "A Multi Vendor Site , Build to facilitate Buying and Selling of Second Hand items among the Students in the College at cheaper cost.",
-        "link": "https://campus-trade.onrender.com/",
-        "imageName": "project1.png",
-        "imageAlt": "Project 1 Image",
+        "title": "Job Seeker",
+        "description": " platform with role-based access control , enabling companies to register job postings and manage applications while allowing seamless job applications for seekers",
+        "link": "https://uks-jobseeking.netlify.app/",
+        "imageName": "job-seeker.png",
+        "imageAlt": "job-seeking Image",
         "technologies": ["ReactJS", "MongoDB" ,"JWT", "ExpressJS"]
       },
       {
@@ -178,6 +179,14 @@
         "imageName": "project3.jpg",
         "imageAlt": "Project 3 Image",
         "technologies": ["ReactJS", "Redux" ,"Firebase", "Tailwind"]
+      },
+      {
+        "title": "Campus Trade",
+        "description": "A Multi Vendor Site , Build to facilitate Buying and Selling of Second Hand items among the Students in the College at cheaper cost.",
+        "link": "https://campus-trade.onrender.com/",
+        "imageName": "project1.png",
+        "imageAlt": "Project 1 Image",
+        "technologies": ["ReactJS", "MongoDB" ,"JWT", "ExpressJS"]
       },
       
       {
