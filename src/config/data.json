@@ -50,6 +50,18 @@
   "bio": {
     "workExperience": [
       {
+        "company": "Roundglass",
+        "roles": [
+          {
+            "title": "Software Engineer, Backend",
+            "description": "Currently working with Backend Living Team on Collective API and Auth API, used Koajs as backend framework, along with that worked on multiple tech stacks like Elasticsearch, MySQL, Redis, Webhooks.",
+            "year": "August 2024- Present"
+          }
+        ],
+        "companyURL": "https://www.linkedin.com/company/roundglass"
+      },
+
+      {
         "company": "Bharti Airtel",
         "roles": [
           {
